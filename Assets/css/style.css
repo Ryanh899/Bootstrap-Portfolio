@@ -1,0 +1,47 @@
+.card {
+    position: relative;
+}
+
+.my-header {
+    position: absolute; 
+    top: 60px; 
+    text-align: center; 
+     
+    font-family: 'Roboto', sans-serif; 
+}
+
+p {
+    font-size: 90px; 
+    font-family: 'Montserrat', sans-serif;
+    color: #0D116C;
+}
+a:link {
+    color: white
+}
+
+.font {
+    font-size: 35px; 
+    
+
+}
+
+.tabs {
+    position: relative; 
+    padding: 40px; 
+    top: 5px; 
+}
+
+.a {
+    color: black; 
+}
+
+.card-img {
+    position: fixed;
+    height: 100%; 
+    width: 100%; 
+    padding: 0px 0px, 0px, 0px; 
+    margin: 0px 0px 0px 0px;
+}
+
+
+  
