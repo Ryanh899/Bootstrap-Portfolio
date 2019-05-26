@@ -1,5 +1,46 @@
 .name { 
     font-family: 'Montserrat', sans-serif; 
     font-size: 50px; 
-    
+}
+
+.vl {
+    border-left: 1px solid;
+    height: 700px
+  }
+.container {
+    position: relative; 
+}
+
+.bio-pic { 
+    position: absolute; 
+    height: 400px; 
+    left: 0; 
+    top: 40px
+}
+
+.clients {
+    position: absolute; 
+    top: 440px; 
+    right: 400px
+}
+
+.client-line {
+    padding: 1px; 
+}
+
+.select {
+    text-decoration: underline solid; 
+}
+
+.name-sep {
+    padding: 0px; 
+    width: 100%; 
+    color: black; 
+    background: black 
+}
+
+.About {
+    font-family: 'Oswald', sans-serif;
+    padding: 1px; 
+    font-size: 45px; 
 }
